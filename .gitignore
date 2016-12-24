@@ -1,0 +1,4 @@
+.gitignore
+.idea/
+PlanetsideStatsCreator.json
+__pycache__/
