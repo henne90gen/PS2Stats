@@ -207,4 +207,4 @@ def get_month_data(name):
     session = dryscrape.Session()
     session.visit(planetstats_url + name.lower())
     response = session.body()
-    print(responsecd PS)
+    print(response)
